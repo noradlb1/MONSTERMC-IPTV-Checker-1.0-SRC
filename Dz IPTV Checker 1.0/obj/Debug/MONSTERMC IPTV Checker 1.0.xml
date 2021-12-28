@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MONSTERMC IPTV Checker 1.0
+</name>
+</assembly>
+<members>
+<member name="T:MONSTERM_IPTV_Checker_1._0.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MONSTERM_IPTV_Checker_1._0.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MONSTERM_IPTV_Checker_1._0.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MONSTERM_IPTV_Checker_1._0.My.Resources.Resources._2635454_email_mail_social_telegram_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MONSTERM_IPTV_Checker_1._0.My.Resources.Resources._437944_youtube_player_screen_technology_tv_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MONSTERM_IPTV_Checker_1._0.My.Resources.Resources._60719_sticker_youtube_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MONSTERM_IPTV_Checker_1._0.My.Resources.Resources._60719_sticker_youtube_icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MONSTERM_IPTV_Checker_1._0.My.Resources.Resources.DISCORD">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

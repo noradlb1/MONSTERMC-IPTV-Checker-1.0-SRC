@@ -1,0 +1,39 @@
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\Dz IPTV Checker 1.0.exe
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\Dz IPTV Checker 1.0.pdb
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\Dz IPTV Checker 1.0.xml
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\MetroFramework.dll
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz_IPTV_Checker_1._0.Form1.resources
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz_IPTV_Checker_1._0.Resources.resources
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.vbproj.GenerateResource.Cache
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.exe
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.xml
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.pdb
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\Dz IPTV Checker 1.0.exe.config
+C:\Users\Samad.Dz\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz_IPTV_Checker_1._0.Add.resources
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\Dz IPTV Checker 1.0.exe.config
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.exe
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.xml
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.pdb
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\Dz IPTV Checker 1.0.exe
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\Dz IPTV Checker 1.0.pdb
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\Dz IPTV Checker 1.0.xml
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz_IPTV_Checker_1._0.Add.resources
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz_IPTV_Checker_1._0.Form1.resources
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz_IPTV_Checker_1._0.Resources.resources
+C:\Users\Samad.Dz\Desktop\My Sources\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.vbproj.GenerateResource.Cache
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\MONSTERMC IPTV Checker 1.0.exe.config
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\MONSTERMC IPTV Checker 1.0.exe
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\MONSTERMC IPTV Checker 1.0.pdb
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\bin\Debug\MONSTERMC IPTV Checker 1.0.xml
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\MONSTERM_IPTV_Checker_1._0.Add.resources
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\MONSTERM_IPTV_Checker_1._0.Form1.resources
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\MONSTERM_IPTV_Checker_1._0.Resources.resources
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\Dz IPTV Checker 1.0.vbproj.CopyComplete
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\MONSTERMC IPTV Checker 1.0.exe
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\MONSTERMC IPTV Checker 1.0.xml
+C:\Users\MONSTERMC\Desktop\Dz IPTV Checker 1.0\Dz IPTV Checker 1.0\obj\Debug\MONSTERMC IPTV Checker 1.0.pdb
